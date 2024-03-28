@@ -495,6 +495,10 @@
 
     /*
         Estos fueron los conceptos básicos a la hora de programar en PHP.
+
+        Para más información visitar: https://www.w3schools.com/php/default.asp
+        La cual es una página destinada al aprendizaje y encontrarás tutoriales desde un nivel básico
+        hasta un nivel avanzado.
     */
 
 ?>
