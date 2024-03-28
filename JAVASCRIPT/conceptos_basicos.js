@@ -372,7 +372,7 @@ for (const value of myArray) {
 
 /*
     La estructura mostará en pantalla todos los valores que se encuentran en una Lista.
-    Primero recorrerá la Lista encontrando los valores y los irá imprimiento en pantalla.
+    Primero recorrerá la Lista encontrando los valores y los irá imprimiendo en pantalla.
 */
 
 //---------------------------------------------------------------------------------------------------------
