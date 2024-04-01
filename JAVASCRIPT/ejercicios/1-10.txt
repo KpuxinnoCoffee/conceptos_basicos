@@ -1,0 +1,79 @@
+/*
+        Ejercicio Nº1
+
+    Realizar una función que nos permita llevar a cabo operaciones aritmétricas (suma, resta, multiplicación
+    y división).
+
+    La función debe pedir 3 parámateros, los cuales serán los números a operar y el tipo de
+    operación aritmétrica elegido.
+
+    En caso de que el parámetro de la operación sea inválido, retornar un mensaje de error personalizado.
+*/
+
+/*
+        Ejercicio Nº2
+
+    Realizar una función que almacene en un arreglo todos los números pares desde a hasta b.
+*/
+
+/*
+        Ejercicio Nº3
+
+    Realizar una tabla de multiplicación de un número "a" desde 0 hasta 12, pero que no se
+    muestre la multiplicación de a * 5
+*/
+
+/*
+        Ejercicio Nº4
+
+    Hacer una función que filtre todos los números que sean múltiplos de 3 de una lista que contenga
+    los números del 0 al 100.
+*/
+
+/*
+        Ejercicio Nº5
+
+    Crear una función que haga de forma aleatoria un número entre 1 y 1000, y
+    que a ese número le saque su mitad, el doble y su raíz cuadrada.
+*/
+
+/*
+        Ejercicio Nº6
+
+    Realizar una función que, dado el dato de entrada nuestra fecha de cumpleaños, nos diga cuántos
+    días faltan para el mismo.
+*/
+
+/*
+        Ejercicio Nº7
+
+    Realizar una función que, dado el dato de entrada una oración, nos devuelva un arreglo que contenga
+    todas las palabras usadas en la oración.
+*/
+
+/*
+        Ejercicio Nº8
+
+    Crea 5 Objetos y almacénalos en una Lista, debes hacer una función para filtrar a todas
+    las personas que tengan el nombre Luis y que también filtre cuales de ellas son mayores de edad.
+*/
+
+/*
+        Ejercicio Nº9
+
+    Realizar una función que nos diga la fecha de apertura de un examen de la universidad, es decir,
+    la cantidad de horas restantes que faltan para que abra dicho examen.
+
+    En caso de que el examen haya cerrado, retornar un mensaje que diga: "El examen ya cerró."
+*/
+
+/*
+        Ejercicio Nº10
+
+    En una Lista tenemos varios valores numéricos, crea una función que elimine los valores
+    que se encuentran repetidos.
+*/
+
+
+
+
